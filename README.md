@@ -2,7 +2,7 @@
 
 ## Description
 
-Basic implementation of Tic Tac Toe game built in 30 minutes
+Basic implementation of Tic Tac Toe game built in 60 minutes
 
 * __Environment:__ Ubuntu 14.04 LTS
 * __python3 version:__ 3.4.3
